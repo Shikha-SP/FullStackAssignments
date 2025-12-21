@@ -1,1 +1,2 @@
-week6 workshop assignment
+# FullStackAssignments
+A collection of my Fullstack Assignments
