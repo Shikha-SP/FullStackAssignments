@@ -1,1 +1,2 @@
-workshop 5 assignment
+# FullStackAssignments
+A collection of my Fullstack Assignments
